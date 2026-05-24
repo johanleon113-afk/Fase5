@@ -1,4 +1,3 @@
-# Fase5
 # Matriz con los recursos y horas trabajadas de lunes a viernes
 # Formato: [Nombre, Lunes, Martes, Miércoles, Jueves, Viernes]
 
